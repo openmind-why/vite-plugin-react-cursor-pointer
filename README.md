@@ -3,6 +3,7 @@ this is an quick increase cursor pointer result vite puligin
 
 
 
+## example
 <div __cursorPointer>this is example , __cursorPointer attributes</div>
 
 // will be transform to 
