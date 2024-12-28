@@ -1,4 +1,4 @@
-export default function vitePluginReactCursorPointerLoader() {
+function vitePluginReactCursorPointerLoader() {
   return {
     name: 'vite-plugin-react-cursor-pointer-loader',
     enforce: 'pre',
@@ -32,3 +32,5 @@ export default function vitePluginReactCursorPointerLoader() {
   }
 
 }
+
+module.exports = vitePluginReactCursorPointerLoader
