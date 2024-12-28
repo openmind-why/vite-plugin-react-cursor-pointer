@@ -1,4 +1,4 @@
-export default () => {
+export default function vitePluginReactCursorPointerLoader() {
   return {
     name: 'vite-plugin-react-cursor-pointer-loader',
     enforce: 'pre',
